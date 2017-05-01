@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+push.sh
+convert.go
+index.db
+debug
+test.html
