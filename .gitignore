@@ -1,7 +1,7 @@
 .DS_Store
 .vscode
 push.sh
-convert.go
+*.go
 index.db
 debug
 test.html
