@@ -4,6 +4,8 @@
 
 目录： `打印`
 
+时间： `2010-08-18 19:56:21`
+
 **榨油用肥猪GDP终于超过日本了**
 
 [http://cid-36d976e82bb7123d.spaces.live.com/blog/cns!36D976E82BB7123D!1695.entry](http://cid-36d976e82bb7123d.spaces.live.com/blog/cns!36D976E82BB7123D!1695.entry)
